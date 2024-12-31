@@ -1,2 +1,3 @@
-# youtube-video-downloader
-A simple Python script to automate YouTube video downloading with various quality options.
+# Python YouTube Video Downloader
+
+A Python automation script to download YouTube videos in multiple quality options.
